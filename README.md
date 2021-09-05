@@ -1,4 +1,4 @@
-# XPATh Demo
+# XPATH Demo
 
 A basic introduction to XPATH in java. In this tutorial, we will demonstrate  a few ways to extract and parse XML content. 
 
