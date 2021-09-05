@@ -15,7 +15,7 @@ The XML content could be:
 * How to get children nodes in an XML content e.g. "/person/contacts/child::*"
 
 ## Use Cases 
-* System configurations can be saved in an XML file e.g. maven uses XML for the POM file, Hibernate supports XML configuration  
+* System configurations can be saved in an XML file e.g. maven uses XML for the Project Object Model (POM) file, Hibernate and Log4j  and many more libraries support XML configurations.  
 * Data storage - you can use XML to store some data that is loaded by the application during start up. This can be thought as a configuration too. 
 * SOAP/XML integrations - when you get a headache dealing with XSDs and WSDL and generation of stubs, you can use raw HTTP request and extract the response via XPATH. You may need this when integrating to a legacy system. 
 * Web Automation - automating web app testing using Selenium requires web testing
@@ -23,6 +23,6 @@ The XML content could be:
 Any other use cases? You can contribute to the repo. 
 
 ## Note
-This repo is created is to help someone get started with XPATH. XPATH is more than I have demostrated and there are many tutorials out there. You now have the power to read and practice.
+This repo is created to help someone get started with XPATH. XPATH is more than what I have demostrated and there are many tutorials out there. You now have the power to read and practise.
 
 
